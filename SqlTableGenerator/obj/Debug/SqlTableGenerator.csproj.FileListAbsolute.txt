@@ -1,0 +1,5 @@
+c:\users\xtomim\documents\visual studio 2015\Projects\SqlTableGenerator\SqlTableGenerator\bin\Debug\SqlTableGenerator.exe.config
+c:\users\xtomim\documents\visual studio 2015\Projects\SqlTableGenerator\SqlTableGenerator\bin\Debug\SqlTableGenerator.exe
+c:\users\xtomim\documents\visual studio 2015\Projects\SqlTableGenerator\SqlTableGenerator\bin\Debug\SqlTableGenerator.pdb
+c:\users\xtomim\documents\visual studio 2015\Projects\SqlTableGenerator\SqlTableGenerator\obj\Debug\SqlTableGenerator.exe
+c:\users\xtomim\documents\visual studio 2015\Projects\SqlTableGenerator\SqlTableGenerator\obj\Debug\SqlTableGenerator.pdb

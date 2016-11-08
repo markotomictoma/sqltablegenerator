@@ -1,0 +1,10 @@
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SFConsole\bin\Debug\SFConsole.exe.config
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SFConsole\bin\Debug\SFConsole.exe
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SFConsole\bin\Debug\SFConsole.pdb
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SFConsole\bin\Debug\SF.dll
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SFConsole\bin\Debug\SF.pdb
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SFConsole\obj\Debug\SFConsole.csprojResolveAssemblyReference.cache
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SFConsole\obj\Debug\SFConsole.exe
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SFConsole\obj\Debug\SFConsole.pdb
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SFConsole\bin\Debug\SqlTableGenerator.exe
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SFConsole\bin\Debug\SqlTableGenerator.pdb

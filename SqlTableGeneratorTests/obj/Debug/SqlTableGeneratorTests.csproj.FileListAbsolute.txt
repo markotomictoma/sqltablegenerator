@@ -1,0 +1,8 @@
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SqlTableGeneratorTests\bin\Debug\SqlTableGeneratorTests.dll
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SqlTableGeneratorTests\bin\Debug\SqlTableGeneratorTests.pdb
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SqlTableGeneratorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SqlTableGeneratorTests\bin\Debug\SqlTableGenerator.exe
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SqlTableGeneratorTests\bin\Debug\SqlTableGenerator.pdb
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SqlTableGeneratorTests\obj\Debug\SqlTableGeneratorTests.csprojResolveAssemblyReference.cache
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SqlTableGeneratorTests\obj\Debug\SqlTableGeneratorTests.dll
+C:\Users\XTOMIM\Documents\Visual Studio 2015\Projects\SqlTableGenerator\SqlTableGeneratorTests\obj\Debug\SqlTableGeneratorTests.pdb
